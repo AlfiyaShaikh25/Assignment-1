@@ -1,0 +1,197 @@
+
+
+.navbar{
+    background-color: #FFFFFF !important;
+}
+.navbar-nav p{
+    font-size: 18px;
+    font-family: Poppins;
+    color: #323232;
+   
+}
+
+.navbar-nav a{
+    
+    color: #6C757D;
+}
+
+.profile-name h4{
+    font-size: 16px;
+    font-family: Poppins;
+    color: #323232;
+    margin-left: 10px;
+}
+.profile-name p{
+    font-size: 14px;
+    font-family: Poppins;
+    color: #323232;
+    text-align: left;
+    margin-left: 10px;
+  
+}
+.nav-right{
+    align-items: center;
+}
+
+.side-bar{
+          /* position: fixed;  */
+          width: 350px;
+          height:1056px ;
+          background-color: #FFFFFF;
+
+}
+.div-logo-img{
+    width: 290px;
+    height: 80px;
+}
+.nav-title{
+  margin-left: 24px;
+}
+
+.nav-title a{
+    font-size: 18px;
+
+}
+
+.accordion-header{
+    align-items: center;
+    align-content: center;
+    
+
+}
+
+
+   
+.form-area{
+    
+    width:1582px !important;
+    margin-top: 24px;
+    margin-left: 24px;
+    background-color: #FFFFFF;
+    overflow-y: scroll;
+    
+}
+.form-area::-webkit-scrollbar{
+    display: none;
+}
+.form-heading{
+    margin-left: 24px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+    width: 1535px;
+    height: 69px;
+}
+.btngroup{
+    margin-left: auto;
+   
+    height:36px ;
+}
+.form-body{
+  
+    height:811px ;
+}
+.body-scroll{
+    margin-left: 23px;
+}
+.heading{
+    font-family:Poppins ;
+    font-size: 20px;
+    color: #303030;
+}
+.form-top p{
+    font-family:Poppins ;
+    font-size: 14px;
+    color: #303030;
+    margin-top: 6px;
+}
+.form-label{
+    font-family: Poppins;
+    font-size:16px ;
+}
+.form-lowerbody {
+    margin-top: 20px !important;
+}
+.form-control{
+    font-family:Poppins ;
+    font-size: 16px;
+    color: #BABABA;
+    margin-top: 6px;
+}
+.form-select{
+    font-family:Poppins ;
+    font-size: 16px;
+    color: #BABABA;
+    margin-top: 6px;
+}
+.cv-upload{
+
+    color: #BABABA;
+    font-size: 16px;
+
+}
+.form-body2-heading{
+    display:flex;
+    font-family:Poppins ;
+    font-size: 20px;
+    margin-top: 21px;
+}
+.form-label-html{
+    align-items: center;
+    margin-top: 20px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 15px !important;
+}
+.form-label-html h6{
+    font-size: 14px !important;
+    color:black;
+    margin-top:10px !important;
+}
+.form-skills{
+    border: 1px solid rgba(107, 206, 252, 0.596);
+    border-radius: 5px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    
+}
+.sidebar-menu-img{
+    height:24px ;
+     width:24px ;
+      align-self:center;
+       margin-left: 30px; 
+       
+}
+.accordion-1{
+    height: 70px;
+}
+.accordion-button-text{
+    font-family: Poppins;
+    font-size: 16px;
+}
+.bi{
+    margin-left: 10px;
+    align-self: center;
+    margin-bottom: 10px;
+}
+.list-img{
+    width: 20px;
+    height: 20px;
+    margin-top: 5px;
+}
+.accordion-body ul{
+    margin-left:50px ;
+    font-size: 16px;
+    font-family: Poppins;
+
+}
+.fs {
+    font-size: 16px;
+    font-family: poppins;
+    
+}
+#editor {
+    height: 300px;
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
